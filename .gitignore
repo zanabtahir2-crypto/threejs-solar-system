@@ -4,3 +4,8 @@ node_modules/
 Thumbs.db
 .vscode/
 .idea/
+
+# Local Netlify folder
+.netlify
+dist/
+.netlify/
