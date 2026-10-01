@@ -1,0 +1,12 @@
+{
+  "name": "solar-system-3js",
+  "version": "1.0.0",
+  "description": "Web-based 3D solar system demo built with Three.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "three": "^0.169.0"
+  }
+}
